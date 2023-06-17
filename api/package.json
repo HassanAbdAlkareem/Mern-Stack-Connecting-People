@@ -6,6 +6,11 @@
   "scripts": {
     "start": "nodemon index.js"
   },
+
+  "engines": {
+      "node": ">=14 <15"
+  },
+  
   "author": "",
   "license": "ISC",
   "dependencies": {
