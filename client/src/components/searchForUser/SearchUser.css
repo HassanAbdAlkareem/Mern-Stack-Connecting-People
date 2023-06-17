@@ -1,0 +1,32 @@
+
+.search {
+    box-shadow:  0 3px 10px 2px rgb(0, 0, 0 , 40%);
+    padding: 1rem;
+
+}
+.search a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.infoUserFound {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.search .circleDiv {
+    width: 35px;
+    height: 35px;
+    background-color: teal;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10px;
+  }
+
+.search .bio {
+    font-size: 17px;
+    color: #ddd;
+}
